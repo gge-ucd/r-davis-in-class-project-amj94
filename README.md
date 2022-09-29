@@ -2,4 +2,4 @@ Alex Johanson <br>
 
 He/Him <br>
 
-Ecology, Salmon Migration and Habitat Usage, Conservation
+Conservation Ecology, Freshwater Ecology Lab, Salmon Migration and Habitat Usage as a guide for restoration.

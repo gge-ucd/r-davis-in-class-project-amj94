@@ -54,3 +54,22 @@ list.files(path = "C:/Users/Alexander Johanson/OneDrive/Desktop/R-DAVIS-2022/r-d
 list.files(data)
 list.files(path = "data")
 dir.create(path = "Scripts")
+
+
+weight<- vector()
+animals <- c("dog","rat","cat","armadillo")
+animas
+animals
+str(weight)
+
+weight <- c(5,10,200,24)
+str(weight)
+head(weight,2)
+tail(weight,n =2)
+weight
+weight(3)
+weight[3]
+weight{c(1,3)}
+weight[c(1,3)]
+1:3
+list.files("data")
